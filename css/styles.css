@@ -862,6 +862,7 @@ a {
   .block-showcase .grid {
     grid-template-columns: 50% 50%;
     gap: 0 4rem;
+    overflow: hidden;
   }
 
   .block-showcase__image {
